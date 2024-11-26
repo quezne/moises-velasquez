@@ -27,3 +27,16 @@ padding: 40px;
    display: inline-block; 
    margin: 10px auto;
 }
+input[type="text"],input[type="number"],input[type="email"],input[type="password"],textarea,select{
+    width:95% ;
+    border-radius:5px;
+    padding: 15px auto;
+    
+
+    
+
+
+}
+select{
+    width: 100%;
+}
